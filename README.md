@@ -1,5 +1,5 @@
 # NeuroLife Project  
-*The University of York & Guangzhou University*
+***The University of York & Guangzhou University***
 
 This project focuses on **Bio-Inspired Models and Lifelong Learning Mechanisms for Robotics and Embodied Intelligence**. It is a collaborative initiative between the **Computational Autonomous Learning Systems (CALS) Lab**, Department of Computer Science, University of York, and the **Machine Life and Intelligence Research Centre**, School of Mathematics and Information Sciences, Guangzhou University.
 
